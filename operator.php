@@ -25,7 +25,6 @@
     $a = 10;
     $ag = "Your are " . $a > 9 ? "Adult" : "Child";
     echo $ag;
-    
     ?>
 </body>
 </html>
