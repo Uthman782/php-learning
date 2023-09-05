@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global and local variable</title>
-
 </head>
 <body>
-    <h1>Hello to Global and Local variable</h1>
+    <h2>Hello to Global and Local variable</h2>
     <?php
     $x = 'PHP global';
     if(true){
