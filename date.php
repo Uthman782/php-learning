@@ -9,7 +9,7 @@
     <h2>PHP date methods</h2>    
     <?php
     echo date('d' .'-'. 'F' .'-'. 'Y'). '<br>';
-    echo date('z');
+    // echo date('z');
     ?>
 </body>
 </html>
